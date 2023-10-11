@@ -15,9 +15,12 @@ I'm a passionate web developer based in the beautiful state of Kerala, India. I 
 
 I'm always eager to expand my skillset. Currently, I'm diving deeper into:
 
-- [Codeigniter]
-- [React]
-- [Flutter]
+- Codeigniter
+- React
+- Flutter
+- Software & Video Game testing
+- Unreal Engine
+- Blender
 
 ## 📫 Let's Connect
 
