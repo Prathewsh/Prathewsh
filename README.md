@@ -2,7 +2,7 @@
 
 I'm a passionate web developer based in the beautiful state of Kerala, India. I love creating web applications and websites that not only look great but also provide excellent user experiences. With 2 + years of experience in the field, I'm constantly learning and improving my skills to stay at the forefront of web development.
 
-🌐 **Visit my portfolio:** [Will update soon]()
+🌐 **Visit my portfolio:** [https://prathewsh.vercel.app/](https://prathewsh.vercel.app/)
 
 ## 🚀 Skills and Technologies
 
