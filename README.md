@@ -18,7 +18,8 @@ I'm always eager to expand my skillset. Currently, I'm diving deeper into:
 - Laravel
 - React
 - Flutter
-- Express JS
+- Golang
+- Next JS
 - Unreal Engine
 - Blender
 - Software & Video Game testing
