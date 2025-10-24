@@ -4,7 +4,7 @@ I'm a passionate web developer based in the beautiful state of Kerala, India. Wi
 
 🌐 **Visit my portfolio:** [https://prathewsh.vercel.app/](https://prathewsh.vercel.app/)
 
-🚀 **Founder of** [Markuply](https://markuply.vercel.app/)
+🚀 **Founder of** [HOLDSPIRE](https://holdspire.com/)
 
 ## 🚀 Skills and Technologies
 
