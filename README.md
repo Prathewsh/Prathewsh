@@ -1,6 +1,6 @@
 # Hello, I'm Prathewsh S Babu👋
 
-I'm a passionate web developer based in the beautiful state of Kerala, India. With over 2 years of hands-on experience, I specialize in building responsive, user-friendly web applications and websites that deliver great design and smooth user experiences. I'm committed to continuous learning and staying up-to-date with the latest technologies in the ever-evolving world of development.
+I'm a passionate web developer based in the beautiful state of Kerala, India. With over 3 years of hands-on experience, I specialize in building responsive, user-friendly web applications and websites that deliver great design and smooth user experiences. I'm committed to continuous learning and staying up-to-date with the latest technologies in the ever-evolving world of development.
 
 🌐 **Visit my portfolio:** [https://prathewsh.vercel.app/](https://prathewsh.vercel.app/)
 
