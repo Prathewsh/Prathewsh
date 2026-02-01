@@ -18,8 +18,7 @@ I'm a passionate web developer based in the beautiful state of Kerala, India. Wi
 
 I'm always eager to grow and expand my technical toolkit. Right now, I’m diving deeper into:
 
-- Flutter
-- Golang
+- Rust
 - Next JS
 - Unreal Engine
 - Blender
