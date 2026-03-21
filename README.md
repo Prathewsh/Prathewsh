@@ -8,20 +8,20 @@ I'm a passionate web developer based in the beautiful state of Kerala, India. Wi
 
 ## 🚀 Skills and Technologies
 
-- **Frontend:** SVELTE, REACT, HTML, CSS, JavaScript, Bootstrap
-- **Backend:** PHP ( Codeigniter, Laravel )
-- **Database:** MySQL, MongoDB
+- **Frontend:** SVELTE, REACT, ANGULAR, NEST JS, HTML, CSS, JavaScript, TypeScript, Bootstrap
+- **Backend:** PHP ( Codeigniter, Laravel ), GOLANG
+- **Database:** MySQL, MongoDB, PostgreSQL
 - **UI/UX Design:** Adobe XD, Figma.
-- **Tools:** Git, GitHub, GitLab, VS Code, Postman, npm, Chrome DevTools, Jira (for project management)
+- **Tools:** Git, GitHub, Postman, Jira (for project management)
 
 ## 🌱 What I'm Currently Learning
 
 I'm always eager to grow and expand my technical toolkit. Right now, I’m diving deeper into:
 
 - Rust
-- Next JS
+- GO
+- Nest JS
 - Unreal Engine
-- Blender
 - Cybersecurity
 - Software & Video Game testing
 
