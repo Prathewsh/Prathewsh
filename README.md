@@ -20,7 +20,7 @@ I'm always eager to grow and expand my technical toolkit. Right now, I’m divin
 
 - Rust
 - GO
-- Nest JS
+- Shell Scripting
 - Unreal Engine
 - Cybersecurity
 - Software & Video Game testing
