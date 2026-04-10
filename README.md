@@ -14,17 +14,6 @@ I'm a passionate web developer based in the beautiful state of Kerala, India. Wi
 - **UI/UX Design:** Adobe XD, Figma.
 - **Tools:** Git, GitHub, Postman, Jira (for project management)
 
-## 🌱 What I'm Currently Learning
-
-I'm always eager to grow and expand my technical toolkit. Right now, I’m diving deeper into:
-
-- Rust
-- GO
-- Shell Scripting
-- Unreal Engine
-- Cybersecurity
-- Software & Video Game testing
-
 ## 📫 Get in Touch
 
 I'm always open to new ideas, collaborations, and opportunities in the tech space. Whether you want to team up on a project, share knowledge, or just connect—feel free to reach out!
