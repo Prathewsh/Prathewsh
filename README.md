@@ -170,26 +170,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathewsh&bg_color=00000000&color=888888&line=FF6B35&point=FF6B35&area=true&area_color=FF6B35&hide_border=true" width="95%" />
 
 </div>
-
-<br>
-
-```
-  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-  ┃                                                                          ┃
-  ┃                     ◈  LET'S BUILD SOMETHING TOGETHER  ◈                 ┃
-  ┃                                                                          ┃
-  ┃      I'm always open to new ideas, collaborations, and opportunities     ┃
-  ┃      in the tech space. Whether you want to team up on a project,        ┃
-  ┃      contribute to open source, or just connect — reach out!             ┃
-  ┃                                                                          ┃
-  ┃      ┌──────────────────────────────────────────────────────────┐        ┃
-  ┃      │                                                          │        ┃
-  ┃      │   📧  prathewshsureshbabu@gmail.com                      │        ┃
-  ┃      │   💼  linkedin.com/in/prathewsh-s-babu                   │        ┃
-  ┃      │   🌐  prathewsh.vercel.app                               │        ┃
-  ┃      │   🚀  moderngeometric.com                                │        ┃
-  ┃      │                                                          │        ┃
-  ┃      └──────────────────────────────────────────────────────────┘        ┃
-  ┃                                                                          ┃
-  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
