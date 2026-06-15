@@ -54,7 +54,7 @@
 
 <div align="center">
 
-## ◈ &nbsp; W H A T &nbsp; I &nbsp; W O R K &nbsp; W I T H &nbsp; ◈
+## &nbsp; W H A T &nbsp; I &nbsp; W O R K &nbsp; W I T H &nbsp;
 
 </div>
 
