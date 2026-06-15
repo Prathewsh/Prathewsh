@@ -1,19 +1,6 @@
 <div align="center">
 
-```
-                                                                                          
-     ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-     ┃                                                                                ┃
-     ┃   ██████╗ ██████╗  █████╗ ████████╗██╗  ██╗███████╗██╗    ██╗███████╗██╗  ██╗  ┃
-     ┃   ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██╔════╝██║    ██║██╔════╝██║  ██║  ┃
-     ┃   ██████╔╝██████╔╝███████║   ██║   ███████║█████╗  ██║ █╗ ██║███████╗███████║  ┃
-     ┃   ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══██║██╔══╝  ██║███╗██║╚════██║██╔══██║  ┃
-     ┃   ██║     ██║  ██║██║  ██║   ██║   ██║  ██║███████╗╚███╔███╔╝███████║██║  ██║  ┃
-     ┃   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝  ┃
-     ┃                                                                                ┃
-     ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-                                                                                          
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6B35&height=200&section=header&text=PRATHEWSH&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Founder%20of%20Modern%20Geometric&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <br>
 
@@ -141,7 +128,7 @@ Hey there! I'm Prathewsh 👋 A passionate web developer from Kerala, India — 
 
 <div align="center">
 
-## &nbsp; C O N T R I B U T I O N &nbsp; G R A P H &nbsp;
+## ◈ &nbsp; C O N T R I B U T I O N &nbsp; G R A P H &nbsp; ◈
 
 <br>
 
