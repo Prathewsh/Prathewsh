@@ -22,33 +22,11 @@
 <a href="https://www.linkedin.com/in/prathewsh-s-babu"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="mailto:prathewshsureshbabu@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Full-Stack+Developer+%7C+4%2B+Years+of+Experience;Founder+of+Modern+Geometric;Building+the+web%2C+one+pixel+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
-
 </div>
 
 ---
 
-```
-                    ╭─────────────────────────────────────────────╮
-                    │                                             │
-                    │   Hey there! I'm Prathewsh 👋               │
-                    │                                             │
-                    │   A passionate web developer from Kerala,   │
-                    │   India — the land of backwaters and        │
-                    │   beautiful sunsets 🌴                       │
-                    │                                             │
-                    │   I specialize in building responsive,      │
-                    │   user-friendly web applications that       │
-                    │   marry great design with smooth UX.        │
-                    │                                             │
-                    │   Currently leading as the Founder of       │
-                    │   Modern Geometric — crafting digital       │
-                    │   experiences that matter.                  │
-                    │                                             │
-                    ╰─────────────────────────────────────────────╯
-```
+Hey there! I'm Prathewsh 👋 A passionate web developer from Kerala, India — the land of backwaters and beautiful sunsets 🌴. I specialize in building responsive, user-friendly web applications that marry great design with smooth UX. Currently leading as the Founder of Modern Geometric — crafting digital experiences that matter.
 
 <br>
 
@@ -163,7 +141,7 @@
 
 <div align="center">
 
-## ◈ &nbsp; C O N T R I B U T I O N &nbsp; G R A P H &nbsp; ◈
+## &nbsp; C O N T R I B U T I O N &nbsp; G R A P H &nbsp;
 
 <br>
 
