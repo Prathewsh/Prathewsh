@@ -163,23 +163,6 @@
 
 <div align="center">
 
-## ◈ &nbsp; G I T H U B &nbsp; A N A L Y T I C S &nbsp; ◈
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathewsh&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=FF6B35&text_color=888888&ring_color=FF6B35" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathewsh&hide_border=true&background=00000000&ring=FF6B35&fire=FF6B35&currStreakNum=888888&sideNums=888888&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=555555" />
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathewsh&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=888888" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ## ◈ &nbsp; C O N T R I B U T I O N &nbsp; G R A P H &nbsp; ◈
 
 <br>
