@@ -168,48 +168,6 @@
 
 <br>
 
-```
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │                                                                        │
-  │   ◈ FRONTEND       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  95%   │
-  │     Svelte · React · Angular · Next.js · TypeScript · Bootstrap        │
-  │                                                                        │
-  │   ◈ BACKEND        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  80%    │
-  │     PHP (CodeIgniter · Laravel) · Golang · Payload CMS                 │
-  │                                                                        │
-  │   ◈ DATABASE       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  80%    │
-  │     MySQL · MongoDB · PostgreSQL                                       │
-  │                                                                        │
-  │   ◈ UI/UX          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  75%    │
-  │     Figma · Adobe XD                                                   │
-  │                                                                        │
-  │   ◈ TOOLS          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░  80%    │
-  │     Git · GitHub · Postman · Jira                                      │
-  │                                                                        │
-  └────────────────────────────────────────────────────────────────────────┘
-```
-
-<br>
-
-<div align="center">
-
-## ◈ &nbsp; G I T H U B &nbsp; A N A L Y T I C S &nbsp; ◈
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathewsh&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6B35&icon_color=FF6B35&text_color=888888&ring_color=FF6B35" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathewsh&hide_border=true&background=00000000&ring=FF6B35&fire=FF6B35&currStreakNum=888888&sideNums=888888&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=555555" />
-
-<br><br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathewsh&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6B35&text_color=888888" />
-
-<br>
-
-</div>
-
-<br>
-
 <div align="center">
 
 ## ◈ &nbsp; C O N T R I B U T I O N &nbsp; G R A P H &nbsp; ◈
@@ -219,29 +177,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathewsh&bg_color=00000000&color=888888&line=FF6B35&point=FF6B35&area=true&area_color=FF6B35&hide_border=true" width="95%" />
 
 </div>
-
-<br>
-
-```
-  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-  ┃                                                                          ┃
-  ┃                     ◈  LET'S BUILD SOMETHING TOGETHER  ◈                 ┃
-  ┃                                                                          ┃
-  ┃      I'm always open to new ideas, collaborations, and opportunities     ┃
-  ┃      in the tech space. Whether you want to team up on a project,        ┃
-  ┃      contribute to open source, or just connect — reach out!             ┃
-  ┃                                                                          ┃
-  ┃      ┌──────────────────────────────────────────────────────────┐        ┃
-  ┃      │                                                          │        ┃
-  ┃      │   📧  prathewshsureshbabu@gmail.com                      │        ┃
-  ┃      │   💼  linkedin.com/in/prathewsh-s-babu                   │        ┃
-  ┃      │   🌐  prathewsh.vercel.app                               │        ┃
-  ┃      │   🚀  moderngeometric.com                                │        ┃
-  ┃      │                                                          │        ┃
-  ┃      └──────────────────────────────────────────────────────────┘        ┃
-  ┃                                                                          ┃
-  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
 
 <br>
 
