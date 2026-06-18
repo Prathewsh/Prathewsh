@@ -125,13 +125,3 @@ Hey there! I'm Prathewsh 👋 A passionate web developer from Kerala, India — 
 </table>
 
 <br>
-
-<div align="center">
-
-## ◈ &nbsp; C O N T R I B U T I O N &nbsp; G R A P H &nbsp; ◈
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathewsh&bg_color=00000000&color=888888&line=FF6B35&point=FF6B35&area=true&area_color=FF6B35&hide_border=true" width="95%" />
-
-</div>
