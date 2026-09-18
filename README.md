@@ -4,7 +4,7 @@ Passionate developer with a love for all things gaming. With 4+ years of experie
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=php,rust,py,c,cpp,java,react,nextjs,svelte,angular,nuxtjs,html,css,tailwind,js,ts,bootstrap,vue,laravel,wordpress,mysql,postgres,mongodb,git,github,docker,aws,figma"
+    src="https://skillicons.dev/icons?i=php,rust,py,c,cpp,java,react,nextjs,svelte,angular,nuxtjs,html,css,sass,tailwind,js,ts,bootstrap,vue,laravel,wordpress,mysql,postgres,mongodb,git,github,docker,aws,figma,powershell"
     height="64"
     align="bottom"
   />
