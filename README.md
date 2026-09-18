@@ -8,7 +8,7 @@ Passionate developer with a love for all things gaming. With 4+ years of experie
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,angular,nuxt,html,tailwind,js,ts,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,angular,nuxt,html,css,tailwind,js,ts,bootstrap,vue" />
 
 ### Backend & CMS
 
@@ -27,7 +27,4 @@ Passionate developer with a love for all things gaming. With 4+ years of experie
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma" height="48" />
   <img src="https://cdn.simpleicons.org/wireshark" height="48" alt="Wireshark" />
-  <img src="https://cdn.simpleicons.org/nmap" height="48" alt="Nmap" />
-  <img src="https://cdn.simpleicons.org/openai" height="48" alt="OpenAI Codex" />
-  <img src="https://cdn.simpleicons.org/anthropic" height="48" alt="Claude Code" />
 </p>
