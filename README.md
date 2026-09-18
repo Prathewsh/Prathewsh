@@ -8,6 +8,4 @@ Passionate developer with a love for all things gaming. With 4+ years of experie
     height="64"
     align="bottom"
   />
-  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="28" align="bottom" alt="CodeIgniter" />
-  <img src="https://cdn.simpleicons.org/payloadcms/FFFFFF" height="28" align="bottom" alt="Payload CMS" />
 </p>
