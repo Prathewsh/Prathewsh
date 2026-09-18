@@ -4,7 +4,9 @@ Passionate developer with a love for all things gaming. With 4+ years of experie
 
 <p>
   <img
-    src="https://skillicons.dev/icons?i=php,rust,python,c,cpp,java,react,nextjs,svelte,angular,nuxt,html,css,tailwind,js,ts,bootstrap,vue,codeigniter,laravel,wordpress,payload,mysql,postgres,mongodb,git,github,docker,aws,figma"
+    src="https://skillicons.dev/icons?i=php,rust,py,c,cpp,java,react,nextjs,svelte,angular,nuxtjs,html,css,tailwind,js,ts,bootstrap,vue,laravel,wordpress,mysql,postgres,mongodb,git,github,docker,aws,figma"
     height="64"
   />
+  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="48" alt="CodeIgniter" />
+  <img src="https://cdn.simpleicons.org/payloadcms/FFFFFF" height="48" alt="Payload CMS" />
 </p>
